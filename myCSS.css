@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #7F9CF5;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,14 +30,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #37C8EA;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #3934E0;
 	margin: 0px;
 	float: left;
 	width: 100%;
